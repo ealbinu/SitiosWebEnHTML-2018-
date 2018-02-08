@@ -1,0 +1,42 @@
+html{
+  background-color: #000;
+  background-image: url(imagenes/fondo.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+body{
+  background:#eee;
+  font-family: sans-serif;
+  max-width: 400px;
+  /* Centrar contenedor */
+  margin: 0 auto;
+  line-height: 1.5;
+  padding: 20px;
+}
+
+h1{
+  text-align: center;
+  background: #3D7F9E;
+  color:#fff;
+}
+h2{
+  color:#3D7F9E;
+  border-bottom: 10px solid #3D7F9E;
+  font-family: 'Montserrat', sans-serif;
+}
+pre{
+  background:#000;
+  color:#fff;
+}
+
+p{
+  padding: 20px;
+  font-size: 1.1em;
+}
+
+strong{
+  color: #aa0000;
+}
+
+
