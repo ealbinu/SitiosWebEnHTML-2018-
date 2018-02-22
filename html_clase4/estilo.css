@@ -1,0 +1,69 @@
+/* RESET */
+*{
+  margin: 0;
+  padding: 0;
+}
+header{
+  background-image: url(img/nubes.JPEG);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  padding: 100px;
+}
+header h1{
+  margin: 0 auto;
+  width: 50%;
+  text-align: center;
+  color: #fff;
+  border: 1px solid #fff;
+  padding: 20px;
+  font-family: 'Lato', sans-serif;
+}
+
+
+section{
+  background: #79ACC9;
+  display: flex;
+}
+
+section article{
+  background: #ffdd00;
+  width: 300px;
+  margin: 20px;
+}
+
+.segundo{
+  flex-grow: 1;
+}
+
+
+
+
+.sub{
+  background: #aa0000;
+  margin: 5px;
+  height: 60px;
+  min-width: 60px;
+}
+
+
+.area1{
+  background: #ffdd00;
+  display: flex;
+}
+
+.area2{
+  background: #ddff00;
+  display: flex;
+}
+
+.area3{
+  background: #dd00ff;
+  display: flex;
+}
+
+
+
+
+
+
